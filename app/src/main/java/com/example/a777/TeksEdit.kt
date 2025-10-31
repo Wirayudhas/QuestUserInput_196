@@ -28,3 +28,5 @@ import androidx.compose.ui.unit.dp
 import com.example.a777.R
 import javax.xml.namespace.QName
 
+@Composable
+fun FormDataDiri(modifier: Modifier
