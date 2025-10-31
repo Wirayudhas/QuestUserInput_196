@@ -7,3 +7,6 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 
+@Composable
+fun FormDataDiri(modifier: Modifier
+){
